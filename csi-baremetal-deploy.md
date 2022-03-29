@@ -134,8 +134,8 @@ spec:
 + При выполнении команды
 ```make load-operator-image OPERATOR_VERSION=${CSI_OPERATOR_VERSION} REGISTRY=${REGISTRY}```
 Появляется ошибка "Error response from daemon: manifest for *ваша директория с файлом* not found: manifest unknown make: *** [Makefile.validation:58: pull-operator-image] Ошибка 1"
-  1. Открываете Makefile.validation
-  2. Закомментируйте строку с командой под pull-operator-image
+  + Открываете Makefile.validation
+  + Закомментируйте строку с командой под pull-operator-image
 + При ошибках с подключением [docker](https://www.docker.com/) стоит переходить на суперпользователя
 ```
 su -
