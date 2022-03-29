@@ -93,8 +93,8 @@ export GOPATH=/home/sold/go
 export PATH=$PATH:$GOPATH/bin
 ```
 + Изменение тестового StatefulSet csi-baremetal/tests/app/nginx.yaml (при web-3 со статусом PENDING и на кластере имеется 3 worker nodes)
-  1. Убираем все PVC
-  2. Уменьшаем количество replicas до 3
+  + Убираем все PVC
+  + Уменьшаем количество replicas до 3
 ```
 apiVersion: apps/v1
 kind: StatefulSet
