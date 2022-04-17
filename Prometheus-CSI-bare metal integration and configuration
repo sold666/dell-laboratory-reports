@@ -1,0 +1,8 @@
+#  Отчёт по второму заданию лаборатории Dell Technologies - ВШПИ
+## Prometheus-CSI-bare metal integration and configuration
+
+> Установка производилась на Ubuntu-20.04 (Параллельная система)
+
+**Вводная часть**
+
++ Установка [Prometheus](https://prometheus.io/download/)
