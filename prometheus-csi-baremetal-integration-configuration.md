@@ -5,9 +5,7 @@
 > The installation was performed on Ubuntu-20.04 (Parallel system)
 
 > Before installing the monitoring system, you must have CSI-baremetal installed.
-> How to do this can be found
->
-here [Installation CSI-baremetal on kind](https://github.com/sold666/dell-laboratory-reports/blob/main/csi-baremetal-deploy.md)
+> How to do this can be found here [Installation CSI-baremetal on kind](https://github.com/sold666/dell-laboratory-reports/blob/main/csi-baremetal-deploy.md)
 
 - [Prometheus](#Prometheus)
     - [About](#About)
