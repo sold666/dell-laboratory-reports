@@ -9,7 +9,7 @@
 
 - [Prometheus](#Prometheus)
     - [About](#About)
-    - [How it works?](#How-it-works-?)
+    - [How it works?](#How-it-works)
 - [Grafana](#Grafana)
     - [About](#About)
 - [Deployment](#Deployment)
