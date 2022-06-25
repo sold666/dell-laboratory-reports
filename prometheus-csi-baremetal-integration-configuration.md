@@ -7,10 +7,10 @@
 > Before installing the monitoring system, you must have CSI-baremetal installed.
 > How to do this can be found here [Installation CSI-baremetal on kind](https://github.com/sold666/dell-laboratory-reports/blob/main/csi-baremetal-deploy.md)
 
-- [Prometheus](#Prometheus)
+- [Prometheus](#Prometheus-)
     - [About](#About)
     - [How it works?](#How-it-works)
-- [Grafana](#Grafana)
+- [Grafana](#Grafana-)
     - [About](#About)
 - [Deployment](#Deployment)
     - [Installation](#Installation)
