@@ -9,13 +9,13 @@
 
 - [Prometheus](#Prometheus)
     - [About](#About)
-    - [How it works?](#How_it_works?)
+    - [How it works?](#How-it-works?)
 - [Grafana](#Grafana)
     - [About](#About)
 - [Deployment](#Deployment)
     - [Installation](#Installation)
-        - [First way](#First_way)
-        - [Second way](#Second_way)
+        - [First way](#First-way)
+        - [Second way](#Second-way)
         - [Ingress](#Ingress)
 
 ## Prometheus <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40">
